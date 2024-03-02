@@ -13,10 +13,8 @@ whitenoise==6.2.0
 django-braces==1.15.0
 django-cleanup==6.0.0
 djangorestframework==3.13.1
-pandas==1.4.3
 django-filter==22.1
 django-localflavor==3.1
-reportlab==3.6.10
 networkx==2.8.4
 
 djangorestframework-simplejwt==5.2.2
@@ -30,4 +28,3 @@ pillow==9.5.0
 django-imagekit==4.1.0
 
 python-dotenv==1.0.0
-requests==2.26.0

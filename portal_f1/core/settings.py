@@ -43,7 +43,7 @@ ALLOWED_HOSTS = [config('SERVER', default='127.0.0.1'), config('SERVER_2', defau
 INSTALLED_APPS = ['django.contrib.admin', 'django.contrib.auth', 'django.contrib.contenttypes',
                   'django.contrib.sessions', 'django.contrib.messages', 'django.contrib.staticfiles',
                   # aplications auxiliares
-                  'django_cleanup.apps.CleanupConfig', 'rest_framework', 'django_filters', 'localflavor', 'reportlab',
+                  'django_cleanup.apps.CleanupConfig', 'rest_framework', 'django_filters', 'localflavor',
                   'rest_framework_simplejwt',
                   'drf_yasg', 'imagekit',
 
