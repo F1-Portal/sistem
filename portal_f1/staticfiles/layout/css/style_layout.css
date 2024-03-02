@@ -1,0 +1,42 @@
+
+#svg_logic{
+    cursor: pointer;
+}
+#svg_physical{
+    cursor: pointer;
+}
+#tooltip {
+  background: cornsilk;
+  border: 1px solid black;
+  border-radius: 5px;
+  padding: 5px;
+}
+.list {
+  font-size: 12px;
+  position: relative;
+  display: block;
+  padding: 3px;
+  margin-bottom: -1px;
+  background-color: #fff;
+  border: 1px solid rgba(0, 0, 0, 0.125);
+}
+.list:hover{
+    background-color:#D0EDFC;
+}
+.link-menu{
+    display:block;
+}
+.tooltip-layout-physical{
+    width:220px;
+    border:1px solid rgb(0, 89, 255);
+    border-radius: 10px;
+    font-weight: bold;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    padding-left: 30px;
+    padding-top: 10px;
+}
+
+.controler {
+    top: 55px; /* altura que vai parar antes do topo */
+    position: sticky;
+}

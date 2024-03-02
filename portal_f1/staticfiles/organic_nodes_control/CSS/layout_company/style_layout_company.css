@@ -1,0 +1,30 @@
+
+#svg_container{
+    cursor: pointer;
+    border:solid 1px black;
+    display:block;
+}
+
+#svg_layout{
+    width:100%;
+    height:100%;
+    display:block;
+}
+
+.controler {
+    top: 55px; /* altura que vai parar antes do topo */
+    position: sticky;
+}
+
+.NameHighlights {
+    position:relative;
+}
+.NameHighlights g {
+    display: none;
+}
+.NameHighlightsHover {
+    position:relative;
+}
+.NameHighlightsHover g {
+    display:block;
+}

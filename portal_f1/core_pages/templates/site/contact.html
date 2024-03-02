@@ -1,0 +1,54 @@
+{% load static %}
+
+<section id="contact" class="section pb-0">
+    <div class="container">
+        <h6 class="xs-font mb-0">Gostou das nossas Soluções?</h6>
+        <h3 class="section-title mb-5">Entre em contato</h3>
+        <div class="row align-items-center justify-content-between">
+            <div class="col-md-8 col-lg-7">
+                <form class="contact-form">
+                    {% csrf_token %}
+                    <div class="form-row">
+                        <div class="col form-group">
+                            <input type="text" id="name_contact" class="form-control" placeholder="Name">
+                            {{ form.name }}
+                        </div>
+                        <div class="col form-group">
+                            <input type="email" id = "email_contact" class="form-control" placeholder="Email">
+                            {{ form.email }}
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <textarea name="" id="message_contact" cols="30" rows="5" class="form-control" placeholder="Como podemos ajudar?"></textarea>
+                        {{ form.message }}
+                    </div>
+                    <div class="form-group">
+                        <input type="submit" id="send-button" onclick="sendMessage()" class="btn btn-primary btn-block" value="Enviar mensagem">
+                        {% autoescape off %}
+                            {{ icone }}
+                        {% endautoescape %}
+                        {{ bottom }}
+                    </div>
+                </form>
+            </div>
+            <div class="col-md-4 d-none d-md-block order-1">
+                <ul class="list">
+                    <li class="list-head">
+                        <h6>Informações de contato</h6>
+                    </li>
+                    <li class="list-body">
+                        <p class="py-2">Entre em contato e responderemos o mais rápido possível.</p>
+                        <p class="py-2"><i class="ti-location-pin"></i> Ladeira Eliezer Batista - Jardim América, Cariacica - ES, 29140-500 - CPID</p>
+                        <p class="py-2"><i class="ti-email"></i>  nocs@nocsolucoes.com.br</p>
+                        <p class="py-2"><i class="ti-microphone"></i> (49) 98801-6488</p>
+
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</section>
+
+{% block script_base %}
+<script src="{% static 'core_contact/js/send_message.js' %}"></script>
+{% endblock script_base %}

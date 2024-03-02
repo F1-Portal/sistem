@@ -1,0 +1,976 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1"
+    width="842pt" height="595pt" viewBox="0 0 842 595">
+    <defs>
+        <clipPath id="clip_0">
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" d="M154 0H4806V7015H154V0" />
+        </clipPath>
+        <clipPath id="clip_1">
+            <path transform="matrix(0,-1,-1,-0,842,595)" d="M256 71H278V144H256Z" />
+        </clipPath>
+        <clipPath id="clip_2">
+            <path transform="matrix(0,-1,-1,-0,842,595)" d="M223 71H245V144H223Z" />
+        </clipPath>
+    </defs>
+    <g clip-path="url(#clip_0)">
+        <g id="layer_1" data-name="">
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M568 1124V1917" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M509 1917V1124" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M449 1521V2313" />
+        </g>
+        <g id="layer_1" data-name="">
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M4570 286V6429 5280" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M4452 6429V5280 405" />
+        </g>
+        <g id="layer_1" data-name="">
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="12"
+                stroke-linecap="round" stroke-linejoin="round" fill="none" stroke="#000000"
+                d="M4452 6706H4570V6429H4452V6706" />
+        </g>
+        <g id="layer_1" data-name="">
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M4452 6587H2510" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M4452 6706H1915" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M568 6587H2510" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M449 6706H1915" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M449 286V1124" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M449 2987V4091" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M449 5280V6429" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M568 6429V5280" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M568 4091V2987" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M568 1124V405" />
+        </g>
+        <g id="layer_1" data-name="">
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="12"
+                stroke-linecap="round" stroke-linejoin="round" fill="none" stroke="#000000"
+                d="M568 6706H449V6429H568V6706" />
+        </g>
+        <g id="layer_1" data-name="">
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M449 1124H568" />
+        </g>
+        <g id="layer_1" data-name="">
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M568 1917H509" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M509 1521V1521" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M509 1521H449" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M449 2313H509V1917" />
+        </g>
+        <g id="layer_1" data-name="">
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M568 405H1955" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M2272 405H2351" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M2668 405H2748" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M2867 405H4452" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M449 286H4570" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M568 5280H449" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M568 4091H449" />
+        </g>
+        <g id="layer_1" data-name="">
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M449 5280V4091" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M465 5280V4091" />
+        </g>
+        <g id="layer_1" data-name="">
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="2" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M568 4091V5280" />
+        </g>
+        <g id="layer_1" data-name="">
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="12"
+                stroke-linecap="round" stroke-linejoin="round" fill="none" stroke="#000000"
+                d="M568 2987H449V2710H568V2987" />
+        </g>
+        <g id="layer_1" data-name="">
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M3144 3893H3263" />
+        </g>
+        <g id="layer_1" data-name="">
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M1757 5399V3893" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M1876 5280V4011" />
+        </g>
+        <g id="layer_1" data-name="">
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M2252 5145V4194" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M2227 5157V4194" />
+        </g>
+        <g id="layer_1" data-name="">
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M3263 5399V3893" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M3144 5280V4011" />
+        </g>
+        <g id="layer_1" data-name="">
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M2966 5145V4194" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M2991 5157V4194" />
+        </g>
+        <g id="layer_1" data-name="">
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M2213 3893H1757" />
+        </g>
+        <g id="layer_1" data-name="">
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M1955 4027V4099" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M2649 4099V4067" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M2966 4079V4099 4027 4091" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M3061 4099V3980" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M2332 4059H2649 2332" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M2966 4027H1955" />
+        </g>
+        <g id="layer_1" data-name="">
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M2213 4011H1876" />
+        </g>
+        <g id="layer_1" data-name="">
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M2332 4043H1955" />
+        </g>
+        <g id="layer_1" data-name="">
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M2213 3893V4011" />
+        </g>
+        <g id="layer_1" data-name="">
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M2332 3980H2236V4011" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M2332 4059V4027 3980" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M2966 4067H2649" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M2649 4059V4027 4059" />
+        </g>
+        <g id="layer_1" data-name="">
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M3084 3893H3263" />
+        </g>
+        <g id="layer_1" data-name="">
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M3061 3980H2966V4011" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M2966 4027V3980" />
+        </g>
+        <g id="layer_1" data-name="">
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M3084 4011V4011" />
+        </g>
+        <g id="layer_1" data-name="">
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M2649 4162H2332" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M2649 4138H1975" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M2649 4083H1955" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M3025 4194H1975" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M3025 4122H1975" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M3061 4099H1955" />
+        </g>
+        <g id="layer_1" data-name="">
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M2991 4194H2227 2991 2227" />
+        </g>
+        <g id="layer_1" data-name="">
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M2991 4194H2227" />
+        </g>
+        <g id="layer_1" data-name="">
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M1953 4274V4327" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M1953 4377V4377" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M1953 4427V4528" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M1953 4578V4578" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M1953 4629V4729" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M1953 4780V4780" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M1953 4830V4931" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M1953 4981V4981" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M1953 5031V5084" />
+        </g>
+        <g id="layer_1" data-name="">
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M2009 4316V5023" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M1896 4316V5023" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M1936 4316V5023" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M1969 4316V5023" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M2033 5060V4279" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M2072 5100V4239" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M2332 4178H1975" />
+            <path transform="matrix(.12,0,0,-.12,321.98005,360.58003)" stroke-width="6"
+                stroke-linecap="round" stroke-linejoin="round" fill="none" stroke="#000000"
+                d="M0 6.5C-3.58985 6.5-6.5 3.58985-6.5 0" />
+            <path transform="matrix(.12,0,0,-.12,321.98005,360.58003)" stroke-width="6"
+                stroke-linecap="round" stroke-linejoin="round" fill="none" stroke="#000000"
+                d="M-6.5 0C-6.5-3.58985-3.58985-6.5 0-6.5" />
+            <path transform="matrix(.12,0,0,-.12,321.98005,360.58003)" stroke-width="6"
+                stroke-linecap="round" stroke-linejoin="round" fill="none" stroke="#000000"
+                d="M0 6.5C-3.58985 6.5-6.5 3.58985-6.5 0" />
+            <path transform="matrix(.12,0,0,-.12,321.98005,360.58003)" stroke-width="6"
+                stroke-linecap="round" stroke-linejoin="round" fill="none" stroke="#000000"
+                d="M-6.5 0C-6.5-3.58985-3.58985-6.5 0-6.5" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M1977 4294H1929" />
+            <path transform="matrix(.12,0,0,-.12,326.06,361.66)" stroke-width="6"
+                stroke-linecap="round" stroke-linejoin="round" fill="none" stroke="#000000"
+                d="M2.5 0C2.5 1.38071 1.38071 2.5 0 2.5" />
+            <path transform="matrix(.12,0,0,-.12,326.06,361.66)" stroke-width="6"
+                stroke-linecap="round" stroke-linejoin="round" fill="none" stroke="#000000"
+                d="M5.49704 .18031C5.40072 3.1171 3.01297 5.45949 .07488 5.49949" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M2072 4239H1876" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M2033 4279H1876" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M1975 4194V4122" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M1925 4294V4296" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M1946 4299V4333" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M1936 4316H1896" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M1944 4294H1925" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M1944 4296H1925" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M2009 4316H1969" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M1953 4337V4294" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M1950 4299V4332" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M1959 4299V4333" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M1955 4299V4332" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M1956 4299V4333" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M1949 4299V4333" />
+            <path transform="matrix(.12,0,0,-.12,321.98005,360.58003)" stroke-width="6"
+                stroke-linecap="round" stroke-linejoin="round" fill="none" stroke="#000000"
+                d="M0 3.5C-1.933 3.5-3.5 1.933-3.5 0" />
+            <path transform="matrix(.12,0,0,-.12,321.98005,360.58003)" stroke-width="6"
+                stroke-linecap="round" stroke-linejoin="round" fill="none" stroke="#000000"
+                d="M-3.5 0C-3.5-1.933-1.933-3.5 0-3.5" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000"
+                d="M1955 4332H1950 1955L1956 4331H1949 1956" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M1950 4332 1949 4331" />
+            <path transform="matrix(.12,0,0,-.12,321.98005,360.58003)" stroke-width="6"
+                stroke-linecap="round" stroke-linejoin="round" fill="none" stroke="#000000"
+                d="M0 3.5C-1.933 3.5-3.5 1.933-3.5 0" />
+            <path transform="matrix(.12,0,0,-.12,321.98005,360.58003)" stroke-width="6"
+                stroke-linecap="round" stroke-linejoin="round" fill="none" stroke="#000000"
+                d="M-3.5 0C-3.5-1.933-1.933-3.5 0-3.5" />
+            <path transform="matrix(.12,0,0,-.12,326.06,359.5)" stroke-width="6"
+                stroke-linecap="round" stroke-linejoin="round" fill="none" stroke="#000000"
+                d="M.07488-5.49949C3.01297-5.45949 5.40072-3.1171 5.49704-.18031" />
+            <path transform="matrix(.12,0,0,-.12,326.06,359.62)" stroke-width="6"
+                stroke-linecap="round" stroke-linejoin="round" fill="none" stroke="#000000"
+                d="M0-2.5C1.38071-2.5 2.5-1.38071 2.5 0" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M1961 4294H1980V4296H1961" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M1950 4299H1955" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000"
+                d="M1950 4299 1949 4300H1956L1955 4299" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M1956 4300H1949" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M1955 4299H1950" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M1969 4347H1936" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M2332 4194V4162" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M2129 4682H2155" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M2129 4680H2153" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M2125 4623H2160" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M2148 4673H2128" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M2148 4666H2128" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M2129 4656H2155" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M2129 4659H2153" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M2129 4654H2153" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M2129 4685H2153" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M2125 4720H2168" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M2125 4716H2160" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M2125 4619H2168" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M2129 4680V4685" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M2103 4672V4702" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M2097 4702V4637" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M2127 4672H2103" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M2127 4666H2103" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M2128 4673 2127 4672" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M2128 4666H2127" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M2129 4654V4659" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M2097 4637H2103V4666" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M2125 4716V4720" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M2103 4702H2097" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M2125 4619V4623" />
+            <path transform="matrix(.12,0,0,-.12,237.14002,361.66)" stroke-width="6"
+                stroke-linecap="round" stroke-linejoin="round" fill="none" stroke="#000000"
+                d="M0 2.5C-1.38071 2.5-2.5 1.38071-2.5 0" />
+            <path transform="matrix(.12,0,0,-.12,237.14002,361.66)" stroke-width="6"
+                stroke-linecap="round" stroke-linejoin="round" fill="none" stroke="#000000"
+                d="M-.07488 5.49949C-3.01297 5.45949-5.40072 3.1171-5.49704 .18031" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M2033 5060H1876" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M2072 5100H1876" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M1969 4991H1936" />
+            <path transform="matrix(.12,0,0,-.12,241.34003,360.58003)" stroke-width="6"
+                stroke-linecap="round" stroke-linejoin="round" fill="none" stroke="#000000"
+                d="M0-6.5C3.58985-6.5 6.5-3.58985 6.5 0" />
+            <path transform="matrix(.12,0,0,-.12,241.34003,360.58003)" stroke-width="6"
+                stroke-linecap="round" stroke-linejoin="round" fill="none" stroke="#000000"
+                d="M0-6.5C3.58985-6.5 6.5-3.58985 6.5 0" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M1925 5045V5042" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M1936 5023H1896" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M1944 5045H1925" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M1944 5042H1925" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M1946 5040V5005" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M2009 5023H1969" />
+            <path transform="matrix(.12,0,0,-.12,237.14002,359.5)" stroke-width="6"
+                stroke-linecap="round" stroke-linejoin="round" fill="none" stroke="#000000"
+                d="M-5.49704-.18031C-5.40072-3.1171-3.01297-5.45949-.07488-5.49949" />
+            <path transform="matrix(.12,0,0,-.12,237.14002,359.62)" stroke-width="6"
+                stroke-linecap="round" stroke-linejoin="round" fill="none" stroke="#000000"
+                d="M-2.5 0C-2.5-1.38071-1.38071-2.5 0-2.5" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M1961 5045H1980V5042H1961" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M1950 5040H1955" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000"
+                d="M1950 5040 1949 5039H1956L1955 5040" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M1956 5039H1949" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M1955 5040H1950" />
+            <path transform="matrix(.12,0,0,-.12,241.34003,360.58003)" stroke-width="6"
+                stroke-linecap="round" stroke-linejoin="round" fill="none" stroke="#000000"
+                d="M3.5 0C3.5 1.933 1.933 3.5 0 3.5" />
+            <path transform="matrix(.12,0,0,-.12,241.34003,360.58003)" stroke-width="6"
+                stroke-linecap="round" stroke-linejoin="round" fill="none" stroke="#000000"
+                d="M6.5 0C6.5 3.58985 3.58985 6.5 0 6.5" />
+            <path transform="matrix(.12,0,0,-.12,241.34003,360.58003)" stroke-width="6"
+                stroke-linecap="round" stroke-linejoin="round" fill="none" stroke="#000000"
+                d="M0-3.5C1.933-3.5 3.5-1.933 3.5 0" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000"
+                d="M1950 5007H1955L1956 5008H1949" />
+            <path transform="matrix(.12,0,0,-.12,241.34003,360.58003)" stroke-width="6"
+                stroke-linecap="round" stroke-linejoin="round" fill="none" stroke="#000000"
+                d="M6.5 0C6.5 3.58985 3.58985 6.5 0 6.5" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M1955 5007H1950" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M1956 5008H1949L1950 5007" />
+            <path transform="matrix(.12,0,0,-.12,241.34003,360.58003)" stroke-width="6"
+                stroke-linecap="round" stroke-linejoin="round" fill="none" stroke="#000000"
+                d="M3.5 0C3.5 1.933 1.933 3.5 0 3.5" />
+            <path transform="matrix(.12,0,0,-.12,241.34003,360.58003)" stroke-width="6"
+                stroke-linecap="round" stroke-linejoin="round" fill="none" stroke="#000000"
+                d="M0-3.5C1.933-3.5 3.5-1.933 3.5 0" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M1959 5040V5005" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M1955 5040V5007" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M1956 5040V5005" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M1949 5040V5005" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M1950 5040V5007" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M2155 4630V4709" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M2220 4623V4716" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M2160 4630H2153V4654" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M2148 4666V4673" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M2153 4659V4680" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M2153 4685V4709H2160" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M2227 4619V4720" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M2966 4099H2649" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M2966 4154H2649" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M2649 4194V4162 4194" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M2649 4154V4122" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M2966 4194V4122" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M3025 4194V4122" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M3034 4720H2991" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M3034 4716H2998" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M3029 4682H3003" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M3029 4680H3005" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M3034 4623H2998" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M3010 4673H3030" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M3010 4666H3030" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M3029 4656H3003" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M3029 4659H3005" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M3029 4654H3005" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M3029 4685H3005" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M3034 4619H2991" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M3005 4709H2998" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M2998 4630H3005V4654" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M3010 4666V4673" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M3005 4659V4680" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M3003 4630V4709" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M2998 4623V4716" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M3005 4685V4709" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M2991 4619V4720" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M3034 4716V4720" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M3055 4702H3061" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M3029 4680V4685" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M3031 4672H3055" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M3031 4666H3055" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M3030 4673 3031 4672" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M3030 4666H3031" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M3029 4654V4659" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M3061 4637H3055V4666" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M3055 4672V4702" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M3061 4702V4637" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M3034 4619V4623" />
+        </g>
+        <g id="layer_1" data-name="">
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M1757 5399H3263" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M1876 5280H3144" />
+        </g>
+        <g id="layer_1" data-name="">
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M2227 5145H2991 2227" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M2227 5157H2991" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M2227 5145H2991" />
+        </g>
+        <g id="layer_1" data-name="">
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M3263 4328H3316" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M3341 4328H3392" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M3417 4328H3467" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M3492 4328H3543" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M3568 4328H3618" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M3643 4328H3694" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M3719 4328H3769" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M3794 4328H3845" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M3870 4328H3920" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M3945 4328H3996" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M4021 4328H4071" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M4096 4328H4147" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M4172 4328H4222" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M4247 4328H4298" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M4323 4328H4373" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M4398 4328H4452" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M3263 4566H3316" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M3341 4566H3392" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M3417 4566H3467" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M3492 4566H3543" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M3568 4566H3618" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M3643 4566H3694" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M3719 4566H3769" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M3794 4566H3845" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M3870 4566H3920" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M3945 4566H3996" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M4021 4566H4071" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M4096 4566H4147" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M4172 4566H4222" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M4247 4566H4298" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M4323 4566H4373" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M4398 4566H4452" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M3263 4804H3316" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M3341 4804H3392" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M3417 4804H3467" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M3492 4804H3543" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M3568 4804H3618" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M3643 4804H3694" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M3719 4804H3769" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M3794 4804H3845" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M3870 4804H3920" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M3945 4804H3996" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M4021 4804H4071" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M4096 4804H4147" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M4172 4804H4222" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M4247 4804H4298" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M4323 4804H4373" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M4398 4804H4452" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M3263 5042H3316" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M3341 5042H3392" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M3417 5042H3467" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M3492 5042H3543" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M3568 5042H3618" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M3643 5042H3694" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M3719 5042H3769" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M3794 5042H3845" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M3870 5042H3920" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M3945 5042H3996" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M4021 5042H4071" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M4096 5042H4147" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M4172 5042H4222" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M4247 5042H4298" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M4323 5042H4373" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M4398 5042H4452" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M3263 5280H3316" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M3341 5280H3392" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M3417 5280H3467" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M3492 5280H3543" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M3568 5280H3618" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M3643 5280H3694" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M3719 5280H3769" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M3794 5280H3845" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M3870 5280H3920" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M3945 5280H3996" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M4021 5280H4071" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M4096 5280H4147" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M4172 5280H4222" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M4247 5280H4298" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M4323 5280H4373" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M4398 5280H4452" />
+        </g>
+        <g id="layer_1" data-name="">
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="2" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M1757 4550H1717" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="2" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M1682 4550H643" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="2" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M608 4550H568" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="2" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M1757 4780H1717" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="2" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M1682 4780H643" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="2" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M608 4780H568" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="2" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M1757 5010H1717" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="2" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M1682 5010H643" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="2" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M608 5010H568" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="2" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M1757 5240H1717" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="2" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M1682 5240H643" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="2" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M608 5240H568" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="2" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M2395 5399V5438" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="2" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M2395 5474V6197" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="2" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M2165 5399V5438" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="2" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M2165 5474V6512" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="2" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M2165 6548V6587" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="2" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M2625 5399V5438" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="2" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M2625 5474V5769" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="2" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M2625 6002V6062" />
+        </g>
+        <g id="layer_1" data-name="">
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M2855 5399V5452" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M2855 5477V5527" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M2855 5553V5603" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M2855 5628V5678" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M2855 5704V5754" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M2855 5779V5829" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M2855 5855V5905" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M2855 5930V5980" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M2855 6006V6056" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M2855 6081V6131" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M2855 6157V6207" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M2855 6232V6282" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M2855 6308V6358" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M2855 6383V6433" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M2855 6459V6509" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M2855 6534V6587" />
+        </g>
+        <g id="layer_1" data-name="">
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="2" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M2625 5769V5777" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="2" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M2625 5999V6062" />
+        </g>
+        <g id="layer_1" data-name="">
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M2625 6062V6123" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M2625 6149V6199" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M2625 6224V6274" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M2625 6300V6350" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M2625 6375V6425" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M2625 6451V6501" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M2625 6526V6587" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M2395 6189V6225" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M2395 6250V6300" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M2395 6326V6376" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M2395 6401V6451" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M2395 6477V6527" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M2395 6552V6587" />
+        </g>
+        <g id="layer_1" data-name="">
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M1163 4471V5993" />
+            <path transform="matrix(.12,0,0,-.12,295.94,455.38)" stroke-width="6"
+                stroke-linecap="round" stroke-linejoin="round" fill="none" stroke="#000000"
+                d="M79.5 0C79.5 43.90664 43.90664 79.5 0 79.5-43.90664 79.5-79.5 43.90664-79.5 0-79.5-43.90664-43.90664-79.5 0-79.5 43.90664-79.5 79.5-43.90664 79.5 0" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M1163 5993H2332L2173 6072" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M2173 5914 2332 5993" />
+        </g>
+        <g id="layer_1" data-name="">
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="2" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M2395 5399V5438" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="2" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M2625 5399V5438" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="2" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M2165 5399V5438" />
+        </g>
+        <g id="layer_1" data-name="">
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M608 4511V6548H2195" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M643 4511V6512H2215" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M1717 4511V5438H2813" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M1717 4511H1682V5474H2793" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M608 4511H643" />
+        </g>
+        <g id="layer_1" data-name="">
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M3084 3893V4011H3144" />
+        </g>
+        <g id="layer_1" data-name="">
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="12"
+                stroke-linecap="round" stroke-linejoin="round" fill="none" stroke="#000000"
+                d="M568 563H449V286H568V563" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="12"
+                stroke-linecap="round" stroke-linejoin="round" fill="none" stroke="#000000"
+                d="M4570 2987H4452V2710H4570V2987" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="12"
+                stroke-linecap="round" stroke-linejoin="round" fill="none" stroke="#000000"
+                d="M4570 563H4452V286H4570V563" />
+        </g>
+        <g id="layer_1" data-name="">
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" d="M2668 432 2351 353V432Z" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="0" stroke-linecap="round"
+                stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000000"
+                d="M2668 432 2351 353V432Z" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000"
+                d="M2351 353 2668 432H2351V353H2668V432" />
+        </g>
+        <g id="layer_1" data-name="">
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M3144 4011V4011" />
+        </g>
+        <g id="layer_1" data-name="">
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" d="M2272 432 1955 353V432Z" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="0" stroke-linecap="round"
+                stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000000"
+                d="M2272 432 1955 353V432Z" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000"
+                d="M1955 353 2272 432H1955V353H2272V432" />
+        </g>
+        <g id="layer_1" data-name="">
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000"
+                d="M2294 1144 2288 1155 2277 1166 2265 1172 2248 1178H2220L2203 1172 2192 1166 2181 1155 2175 1144V1121L2181 1110 2192 1098 2203 1093 2220 1087H2248L2265 1093 2277 1098 2288 1110 2294 1121V1144" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M2198 1127 2164 1093" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000"
+                d="M2175 1047H2294V1008L2288 991 2277 980 2265 974 2248 968H2220L2203 974 2192 980 2181 991 2175 1008V1047" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000"
+                d="M2271 917 2277 906 2294 889H2175" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000"
+                d="M2294 787 2288 804 2271 815 2243 821H2226L2198 815 2181 804 2175 787V776L2181 759 2198 747 2226 742H2243L2271 747 2288 759 2294 776V787" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000"
+                d="M2265 623 2277 629 2288 640 2294 651V674L2288 685 2277 696 2265 702 2248 708H2220L2203 702 2192 696 2181 685 2175 674V651L2181 640 2192 629 2203 623" />
+        </g>
+        <g id="layer_1" data-name="">
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M2148 1192V609" />
+        </g>
+        <g id="layer_1" data-name="">
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000"
+                d="M2018 1144 2013 1155 2002 1166 1990 1172 1973 1178H1945L1928 1172 1917 1166 1905 1155 1900 1144V1121L1905 1110 1917 1098 1928 1093 1945 1087H1973L1990 1093 2002 1098 2013 1110 2018 1121V1144" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M1922 1127 1888 1093" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000"
+                d="M1900 1047H2018V1008L2013 991 2002 980 1990 974 1973 968H1945L1928 974 1917 980 1905 991 1900 1008V1047" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000"
+                d="M1996 917 2002 906 2018 889H1900" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000"
+                d="M2018 787 2013 804 1996 815 1968 821H1951L1922 815 1905 804 1900 787V776L1905 759 1922 747 1951 742H1968L1996 747 2013 759 2018 776V787" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000"
+                d="M1900 702H2018V662L2013 646 2002 634 1990 629 1973 623H1945L1928 629 1917 634 1905 646 1900 662V702" />
+        </g>
+        <g id="layer_1" data-name="">
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M1873 1192V609" />
+            <path transform="matrix(.12,0,0,-.12,799.58,247.06)" stroke-width="6"
+                stroke-linecap="round" stroke-linejoin="round" fill="none" stroke="#000000"
+                d="M32.5 0C32.5 17.94925 17.94925 32.5 0 32.5-17.94925 32.5-32.5 17.94925-32.5 0-32.5-17.94925-17.94925-32.5 0-32.5 17.94925-32.5 32.5-17.94925 32.5 0" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M2148 609 2510 432" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M2668 379H2748" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M2114 353V329H2855V345" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M1873 609 2114 432" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M2748 464V345H2867V464H2748" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M2867 464 2748 345" />
+            <path transform="matrix(0,-.12,-.12,-0,842,595)" stroke-width="6" stroke-linecap="round"
+                stroke-linejoin="round" fill="none" stroke="#000000" d="M2748 464 2867 345" />
+        </g>
+    </g>
+    <g clip-path="url(#clip_1)">
+</g>
+    <g clip-path="url(#clip_2)">
+</g>
+</svg>

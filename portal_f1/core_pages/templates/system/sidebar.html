@@ -1,0 +1,19 @@
+{% load static %}
+
+<nav class="pcoded-navbar menupos-fixed menu-light ">
+	<div class="navbar-wrapper">
+		<div class="navbar-content scroll-div" >
+			<ul class="nav pcoded-inner-navbar">
+
+				{% if request.user.is_authenticated %}
+					{% include 'menu_naturae.html' %}
+					{% include 'menu_core_access.html' %}
+				{% endif %}
+
+			</ul>
+		</div>
+	</div>
+</nav>
+
+
+
