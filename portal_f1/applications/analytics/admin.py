@@ -21,6 +21,8 @@ from analytics.models.sprint_results_times import SprintResultTime
 from analytics.models.status import Status
 from analytics.models.sprint_fastest_lap import SprintFastestLap
 from analytics.models.free_practice import FreePractice
+from analytics.models.qualify_session import QualifySession
+from analytics.models.sprint_race import SprintRace
 
 admin.site.register(Circuit)
 admin.site.register(Constructor)
@@ -44,3 +46,5 @@ admin.site.register(SprintResultTime)
 admin.site.register(FastestLap)
 admin.site.register(SprintFastestLap)
 admin.site.register(FreePractice)
+admin.site.register(SprintRace)
+admin.site.register(QualifySession)
