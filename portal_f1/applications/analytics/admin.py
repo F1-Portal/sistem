@@ -20,7 +20,7 @@ from analytics.models.sprint_results import SprintResult
 from analytics.models.sprint_results_times import SprintResultTime
 from analytics.models.status import Status
 from analytics.models.sprint_fastest_lap import SprintFastestLap
-
+from analytics.models.free_practice import FreePractice
 
 admin.site.register(Circuit)
 admin.site.register(Constructor)
@@ -43,3 +43,4 @@ admin.site.register(ResultTime)
 admin.site.register(SprintResultTime)
 admin.site.register(FastestLap)
 admin.site.register(SprintFastestLap)
+admin.site.register(FreePractice)
