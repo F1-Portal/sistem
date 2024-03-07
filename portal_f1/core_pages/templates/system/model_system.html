@@ -35,12 +35,13 @@
             <div class="loader-fill"></div>
           </div>
       </div>
-      {% include 'system/navigation.html' %}
-      {% include 'system/sidebar.html' %}
       {% block stylesheets_system %}
       {% endblock stylesheets_system %}
+      {% include 'system/navigation.html' %}
+      {% include 'system/sidebar.html' %}
 
       {% block body_system %}
+
       {% endblock body_system %}
 
       {% include 'system/scripts.html' %}

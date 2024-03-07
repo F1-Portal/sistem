@@ -1,0 +1,100 @@
+{% extends 'system/model_system.html' %}
+
+{% load static %}
+
+{% block title %} Pilotos {% endblock %}
+
+{% block body_system %}
+    <section class="pcoded-main-container">
+        <div class="pcoded-content">
+            <!-- Menu Reversivo start -->
+            <div class="page-header">
+                <div class="page-block">
+                    <div class="row align-items-center">
+                        <div class="col-md-12">
+                            <div class="page-header-title">
+                                <h5 class="m-b-10">Pilotos</h5>
+                            </div>
+                            <ul class="breadcrumb">
+                                <li class="breadcrumb-item"><a href="{% url 'analytics' %}"><i class="feather icon-home"></i></a></li>
+                                <li class="breadcrumb-item">Lista de Pilotos</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- Menu Reversivo end -->
+            <!-- Menu Corpo start -->
+            <div class="row">
+                <div class="col-sm-12">
+                    <div class="card">
+                        <div class="card-header">
+                            <h5>Pilotos Cadastrados</h5>
+                            <a href="" class="btn btn-primary btn-sm float-right">Adicionar Piloto</a>
+                        </div>
+                        <div class="card-body">
+                            <form class="form-inline" method="GET">
+                                <div class="form-group">
+                                    <label for="filter_driver">Filtro</label>
+                                    {{ filter.form }}
+                                </div>
+                                <div class="mt-4">
+                                    <button type="submit" id="filter-button" class="btn btn-block btn-primary mb-4">Filtrar</button>
+                                </div>
+                            </form>
+                            <div class="card-body table-bfamily-style">
+                                <div class="table-responsive">
+                                    <table class="table table-striped" id="tabela-listar-driver">
+                                        <thead>
+                                            <tr>
+                                                <th>ID</th>
+                                                <th>Nome Completo</th>
+                                                <th>Nome Ref.</th>
+                                                <th>Número</th>
+                                                <th>Nacionalidade</th>
+                                                <th>Data de nascimento</th>
+                                                <th>Período de atuação</th>
+                                                <th>Detalhes</th>
+
+                                            </tr>
+                                        </thead>
+                                        <tbody>
+                                           {% for driver in object_list %}
+                                            <tr>
+                                                <td>{{ driver.id }}</td>
+                                                <td>{{ driver.fname }} {{driver.lname}}</td>
+                                                <td>{{ driver.code }}</td>
+                                                <td>{{ driver.number }}</td>
+                                                <td>{{ driver.nationality }}</td>
+                                                <td>{{ driver.dob }}</td>
+                                                <td>{{ driver.period }}</td>
+                                                <td>
+                                                <a href="">
+                                                        <button type="button" class="btn btn-icon btn-success btn-sm" data-toggle="tooltip" data-placement="top" title="Detalhes">
+                                                            <i class="fa fa-bar-chart" aria-hidden="true"></i>
+                                                        </button>
+                                                    </a>
+                                                </td>
+                                            </tr>
+                                            {% empty %}
+                                            <tr>
+                                                <td colspan="5" align="center">Nenhum Piloto Encontrado</td>
+                                            </tr>
+                                            {% endfor %}
+                                        </tbody>
+                                    </table>
+                                    {% include 'includes/paginacao_list.html' %}
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- Menu Corpo end -->
+    </section>
+{% endblock body_system %}
+
+<!-- Specific Page JS goes HERE  -->
+{% block script_base %}
+{% endblock script_base %}

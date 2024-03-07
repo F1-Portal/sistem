@@ -1,6 +1,6 @@
 from django.urls import path
 from core_pages.views.index import IndexSystemView
-from blog.views.index import IndexView
+
 
 
 urlpatterns = [
