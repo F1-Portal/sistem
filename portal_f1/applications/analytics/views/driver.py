@@ -1,3 +1,6 @@
+from datetime import date
+
+import pandas as pd
 from django.db.models import FloatField, Value, IntegerField, Min, CharField
 from django.views.generic.list import ListView
 from analytics.filters.driver import DriverFilter
@@ -9,6 +12,8 @@ from analytics.models.results import Result
 from django.views.generic import DetailView
 
 from analytics.models.qualifying import Qualifying
+from rest_framework.response import Response
+from rest_framework.views import APIView
 
 
 class DriverDetailView(DetailView):
@@ -51,6 +56,42 @@ class DriverDetailView(DetailView):
 
         return data
 
+
+class DriverDetailAPIView(APIView):
+    def get(self, request, format=None):
+        driver = Driver.objects.get(pk=int(request.GET.get('driver')))
+
+        results = pd.DataFrame(list(Result.objects.filter(driver=driver).values('position', 'race__year')))
+        poles = pd.DataFrame(list(Qualifying.objects.filter(driver=driver, position=1).values('race__year')))
+
+        start_year = results['race__year'].min()
+        end_year = results['race__year'].max()
+
+        years = []
+        for i in range(start_year, end_year + 1):
+            years.append(int(i))
+
+        poles = poles.value_counts("race__year").reset_index(name='poles')
+        poles = poles.sort_values('race__year')
+
+        poles_year = []
+        for year in years:
+            try:
+                poles_year.append(poles.loc[poles['race__year'] == int(year), 'poles'].iloc[0])
+            except IndexError as e:
+                poles_year.append(0)
+
+        poles_by_year = [{'x': date(int(years[i]), 1, 1), 'y': poles_year[i]} for i in range(0, len(years))]
+
+        data = []
+        data.append(poles_by_year)
+        labels = ['Poles']
+
+        data = {
+            "data": data,
+            "labels": labels
+        }
+        return Response(data)
 
 
 class DriverList(ListView):

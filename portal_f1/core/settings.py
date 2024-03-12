@@ -147,16 +147,16 @@ EMAIL_PORT = 587
 EMAIL_HOST_USER = ''
 EMAIL_HOST_PASSWORD = ''
 
-REST_FRAMEWORK = {
-    'DEFAULT_PERMISSION_CLASSES': ['rest_framework.permissions.IsAdminUser', ],
-    'DEFAULT_AUTHENTICATION_CLASSES': ['rest_framework.authentication.SessionAuthentication',
-                                       'rest_framework_simplejwt.authentication.JWTAuthentication', ],
-    'DEFAULT_SCHEMA_CLASS': 'rest_framework.schemas.coreapi.AutoSchema'}
+# REST_FRAMEWORK = {
+#     'DEFAULT_PERMISSION_CLASSES': ['rest_framework.permissions.IsAdminUser', ],
+#     'DEFAULT_AUTHENTICATION_CLASSES': ['rest_framework.authentication.SessionAuthentication',
+#                                        'rest_framework_simplejwt.authentication.JWTAuthentication', ],
+#     'DEFAULT_SCHEMA_CLASS': 'rest_framework.schemas.coreapi.AutoSchema'}
+#
+# SIMPLE_JWT = {'ACCESS_TOKEN_LIFETIME': timedelta(minutes=60),
+#               'REFRESH_TOKEN_LIFETIME': timedelta(days=30), }
 
-SIMPLE_JWT = {'ACCESS_TOKEN_LIFETIME': timedelta(minutes=60),
-              'REFRESH_TOKEN_LIFETIME': timedelta(days=30), }
-
-SWAGGER_SETTINGS = {'exclude_url_names': ['insert-photo', ], }
+# SWAGGER_SETTINGS = {'exclude_url_names': ['insert-photo', ], }
 
 SECURE_PROXY_SSL_HEADER = ('HTTP_X_FORWARDED_PROTO', 'https')
 CSRF_TRUSTED_ORIGINS = ['https://' + config('SERVER'), 'https://' + config('SERVER_2')]
