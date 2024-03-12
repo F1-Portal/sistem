@@ -22709,8 +22709,7 @@ pre[class*=language-]:before {
 }
 
 .pcoded-header.header-blue {
-    background: linear-gradient(to right, #000033, #6600cc 30%, #990099 40%, #cc0066, #ff6600, #ffcc00);
-    color: rgba(255, 255, 255, 0.8);
+    background:  linear-gradient(41deg, rgba(140,6,6,1) 0%, rgba(255,0,0,1) 49%, rgba(255,0,0,1) 51%, rgba(130,5,5,1) 100%);
 
 }
 
@@ -26518,6 +26517,7 @@ div.dtk-focus-alt table.dataTable tbody th.focus {
 
 .aut-bg-img .auth-content {
     padding: 70px 40px;
+
 }
 
 /* image varient End */

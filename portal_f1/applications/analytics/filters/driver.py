@@ -10,8 +10,8 @@ class DriverFilter(django_filters.FilterSet):
         label='',
         widget=forms.TextInput(
             attrs={
-                "placeholder": "Filtrar todos",
-                "maxlength": 10,
+                "placeholder": "Filter All",
+                "maxlength": 20,
                 "class": "form-control mx-sm-3",
                 "id": "filter_driver",
             }

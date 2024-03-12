@@ -4,14 +4,18 @@
 
 {% block title %}{% endblock %}
 
+{% block stylesheets_extra %}
+{% endblock stylesheets_extra %}
+
 
 {% block body_system %}
-    {% include 'analytic/navigation.html' %}
-    {% include 'analytic/sidebar.html' %}
     {% include 'analytic/inicio.html' %}
     {% include 'analytic/scripts.html' %}
     {% include 'analytic/pagination.html' %}
 
 {% endblock body_system %}
+
+{% block script_base %}
+{% endblock script_base %}
 
 

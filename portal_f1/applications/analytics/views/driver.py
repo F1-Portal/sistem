@@ -6,9 +6,56 @@ from analytics.models.races import Race
 from analytics.models.results import Result
 
 
+from django.views.generic import DetailView
+
+from analytics.models.qualifying import Qualifying
+
+
+class DriverDetailView(DetailView):
+    template_name = 'driver/driver_detail.html'
+    model = Driver
+
+    def get_context_data(self, *args, **kwargs):
+        context = super().get_context_data(*args, **kwargs)
+
+        return context
+    def get_object(self, queryset=None):
+        driver = Driver.objects.get(pk=self.kwargs["pk"])
+        results = Result.objects.filter(driver=driver)
+        pole = Qualifying.objects.filter(driver=driver, position=1)
+        completed_races = 0
+        first_places = 0
+        second_places = 0
+        third_places = 0
+        for result in results:
+            if result.status.id == 1:
+                if result.position == 1:
+                    first_places += 1
+                elif result.position == 2:
+                    second_places += 1
+                elif result.position == 3:
+                    third_places += 1
+
+
+                completed_races += 1
+
+        data = {
+            "pole": len(pole),
+            "driver": driver,
+            "total_races":len(results),
+            "completed_races": completed_races,
+            "first_places": first_places,
+            "second_places": second_places,
+            "third_places": third_places
+                }
+
+        return data
+
+
+
 class DriverList(ListView):
     model = Driver
-    template_name = 'drivers/driver.html'
+    template_name = 'driver/driver_list.html'
     paginate_by = 10
     permission_required = 'analytics.view_driver'
 
