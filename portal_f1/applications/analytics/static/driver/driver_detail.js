@@ -84,14 +84,14 @@ $(document).ready(function() {
             success: function(data){
                 for (var i = 0; i < data.labels.length; ++i) {
                     var newDataset = {
-                        type: 'line',
+                        type: data.type[i],
                         borderWidth: 2,
                         pointStyle: 'rectRot',
                         fill: false,
                         cubicInterpolationMode: 'monotone',
                         tension: 0.4,
-                        borderColor: 'red',
-                        backgroundColor: 'red',
+                        borderColor: data.color[i],
+                        backgroundColor: data.color[i],
                         label: data.labels[i],
                         data: data.data[i],
                     }

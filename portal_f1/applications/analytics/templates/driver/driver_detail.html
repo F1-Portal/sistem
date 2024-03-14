@@ -33,24 +33,21 @@
         <div class="row">
             <div class=" row col-md-5">
                 <div class=" col-md-6">
-                    <div class="card bg-c-blue order-card">
+                    <div class="card bg-c-red order-card">
                         <div class="card-body">
                             <h6 class="text-white">Total Races</h6>
-                            <h2 class="text-right text-white"><i
-                                    class="feather icon-shopping-cart float-left"></i><span>{{object.total_races}}</span>
-                            </h2>
-                            <p class="m-b-0">Completed Races<span class="float-right">{{object.completed_races}}</span>
-                            </p>
+                            <h2 class="text-right text-white"><i class="feather icon-award float-left"></i><span>{{object.total_races}}</span></h2>
+                            <p class="m-b-0">Completed Races<span class="float-right">{{object.completed_races}}</span></p>
                         </div>
                     </div>
                 </div>
 
                 <div class=" col-md-6">
-                    <div class="card bg-c-blue order-card">
+                    <div class="card bg-c-red order-card">
                         <div class="card-body">
                             <h6 class="text-white">Poles</h6>
                             <h2 class="text-right text-white"><i
-                                    class="feather icon-shopping-cart float-left"></i><span>{{object.pole}}</span>
+                                    <i class="feather icon-award float-left"></i><span>{{object.pole}}</span>
                             </h2>
                             <p class="m-b-0">Starts on pole position</p>
                         </div>
@@ -59,22 +56,22 @@
             </div>
             <div class=" row col-md-7">
                 <div class="col-md-4">
-                    <div class="card bg-c-blue order-card">
+                    <div class="card bg-c-silver order-card">
                         <div class="card-body">
                             <h6 class="text-white">Second Places</h6>
                             <h2 class="text-right text-white"><i
-                                    class="feather icon-shopping-cart float-left"></i><span>{{object.second_places}}</span>
+                                    <i class="feather icon-award float-left"></i><span>{{object.second_places}}</span>
                             </h2>
                             <p class="m-b-0">Finished in second place</p>
                         </div>
                     </div>
                 </div>
                 <div class="col-md-4">
-                    <div class="card bg-c-blue order-card">
+                    <div class="card bg-c-gold order-card">
                         <div class="card-body">
                             <h6 class="text-white">First Places</h6>
                             <h2 class="text-right text-white"><i
-                                    class="feather icon-shopping-cart float-left"></i><span>{{object.first_places}}</span>
+                                   <i class="feather icon-award float-left"></i><span>{{object.first_places}}</span>
                             </h2>
                             <p class="m-b-0">Finished in first place</p>
                         </div>
@@ -82,11 +79,11 @@
                 </div>
 
                 <div class="col-md-4">
-                    <div class="card bg-c-blue order-card">
+                    <div class="card bg-c-bronze order-card">
                         <div class="card-body">
                             <h6 class="text-white">Third Places</h6>
                             <h2 class="text-right text-white"><i
-                                    class="feather icon-shopping-cart float-left"></i><span>{{object.third_places}}</span>
+                                    <i class="feather icon-award float-left"></i><span>{{object.third_places}}</span>
                             </h2>
                             <p class="m-b-0">Finished in third place</p>
                         </div>
@@ -96,6 +93,11 @@
             <div class="col-md-6">
                 <div class="card-block" style="padding-top: 0px;">
                     <canvas id="driver_years"></canvas>
+                </div>
+            </div>
+            <div class="col-md-6">
+                <div class="card-block" style="padding-top: 0px;">
+                    <canvas id=""></canvas>
                 </div>
             </div>
         </div>

@@ -19756,8 +19756,45 @@ pre[class*=language-]:before {
     border: 1px solid #4099ff;
 }
 
+.bg-c-silver {
+    background: linear-gradient(4deg, #c0c0c0, #dbdbdb);
+}
+
+.text-c-silver {
+    color: #4099ff;
+}
+
+.b-c-silver {
+    border: 1px solid #4099ff;
+}
+
+.bg-c-gold {
+    background: linear-gradient(4deg, #daa520, #f7d377);
+}
+
+.text-c-gold {
+    color: #4099ff;
+}
+
+.b-c-gold {
+    border: 1px solid #4099ff;
+}
+
+.bg-c-bronze {
+    background: linear-gradient(4deg, #cd7f32, #e9ac6f);
+}
+
+.text-c-bronze {
+    color: #4099ff;
+}
+
+.b-c-bronze {
+    border: 1px solid #4099ff;
+}
+
+
 .bg-c-red {
-    background: linear-gradient(45deg, #FF5370, #ff869a);
+    background: linear-gradient(45deg, #f40000, #840404);
 }
 
 .text-c-red {
