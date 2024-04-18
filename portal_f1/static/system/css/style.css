@@ -19756,8 +19756,51 @@ pre[class*=language-]:before {
     border: 1px solid #4099ff;
 }
 
+.bg-c-silver {
+     background: linear-gradient(to bottom, #e8e8e8 0%,#999999 50%,#999999 51%,#c0c0c0 100%);
+
+
+}
+
+.text-c-silver {
+    color: #4099ff;
+}
+
+.b-c-silver {
+    border: 1px solid #4099ff;
+}
+
+.bg-c-gold {
+    background: linear-gradient(180deg,  #fceabb 0%,#fccd4d 50%,#f8b500 51%,#fbdf93 100%);
+
+}
+
+.text-c-gold {
+    color: #4099ff;
+}
+
+.b-c-gold {
+    border: 1px solid #4099ff;
+}
+
+.bg-c-bronze {
+     background: linear-gradient(to bottom,  rgba(239,166,98,1) 0%,rgba(204,95,0,1) 57%,rgba(204,95,0,1) 58%,rgba(221,150,84,1) 100%);
+
+
+}
+
+.text-c-bronze {
+    color: #4099ff;
+}
+
+.b-c-bronze {
+    border: 1px solid #4099ff;
+}
+
+
 .bg-c-red {
-    background: linear-gradient(45deg, #FF5370, #ff869a);
+     background: linear-gradient(to bottom,  rgba(248,80,50,1) 0%,rgba(241,111,92,1) 50%,rgba(246,41,12,1) 51%,rgba(240,47,23,1) 71%,rgba(231,56,39,1) 100%);
+
 }
 
 .text-c-red {
@@ -22709,8 +22752,7 @@ pre[class*=language-]:before {
 }
 
 .pcoded-header.header-blue {
-    background: linear-gradient(to right, #000033, #6600cc 30%, #990099 40%, #cc0066, #ff6600, #ffcc00);
-    color: rgba(255, 255, 255, 0.8);
+    background:  linear-gradient(41deg, rgba(140,6,6,1) 0%, rgba(255,0,0,1) 49%, rgba(255,0,0,1) 51%, rgba(130,5,5,1) 100%);
 
 }
 
@@ -26518,7 +26560,10 @@ div.dtk-focus-alt table.dataTable tbody th.focus {
 
 .aut-bg-img .auth-content {
     padding: 70px 40px;
+
 }
+
+
 
 /* image varient End */
 /**====== Authentication css end ======**/

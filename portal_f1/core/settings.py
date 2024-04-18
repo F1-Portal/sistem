@@ -43,14 +43,14 @@ ALLOWED_HOSTS = [config('SERVER', default='127.0.0.1'), config('SERVER_2', defau
 INSTALLED_APPS = ['django.contrib.admin', 'django.contrib.auth', 'django.contrib.contenttypes',
                   'django.contrib.sessions', 'django.contrib.messages', 'django.contrib.staticfiles',
                   # aplications auxiliares
-                  'django_cleanup.apps.CleanupConfig', 'rest_framework', 'django_filters', 'localflavor', 'reportlab',
+                  'django_cleanup.apps.CleanupConfig', 'rest_framework', 'django_filters', 'localflavor',
                   'rest_framework_simplejwt',
                   'drf_yasg', 'imagekit',
 
                   # aplications adicionados
                   'core_pages.apps.CorePagesConfig', 'core_access.apps.CoreAccessConfig',
                   'core_registration.apps.CoreRegistrationConfig', 'captcha', 'core_log.apps.CoreLogConfig',
-                  'analytics.apps.AnalyticsConfig',
+                  'analytics.apps.AnalyticsConfig', 'blog.apps.BlogConfig',
 
                   ]
 
@@ -147,16 +147,16 @@ EMAIL_PORT = 587
 EMAIL_HOST_USER = ''
 EMAIL_HOST_PASSWORD = ''
 
-REST_FRAMEWORK = {
-    'DEFAULT_PERMISSION_CLASSES': ['rest_framework.permissions.IsAdminUser', ],
-    'DEFAULT_AUTHENTICATION_CLASSES': ['rest_framework.authentication.SessionAuthentication',
-                                       'rest_framework_simplejwt.authentication.JWTAuthentication', ],
-    'DEFAULT_SCHEMA_CLASS': 'rest_framework.schemas.coreapi.AutoSchema'}
+# REST_FRAMEWORK = {
+#     'DEFAULT_PERMISSION_CLASSES': ['rest_framework.permissions.IsAdminUser', ],
+#     'DEFAULT_AUTHENTICATION_CLASSES': ['rest_framework.authentication.SessionAuthentication',
+#                                        'rest_framework_simplejwt.authentication.JWTAuthentication', ],
+#     'DEFAULT_SCHEMA_CLASS': 'rest_framework.schemas.coreapi.AutoSchema'}
+#
+# SIMPLE_JWT = {'ACCESS_TOKEN_LIFETIME': timedelta(minutes=60),
+#               'REFRESH_TOKEN_LIFETIME': timedelta(days=30), }
 
-SIMPLE_JWT = {'ACCESS_TOKEN_LIFETIME': timedelta(minutes=60),
-              'REFRESH_TOKEN_LIFETIME': timedelta(days=30), }
-
-SWAGGER_SETTINGS = {'exclude_url_names': ['insert-photo', ], }
+# SWAGGER_SETTINGS = {'exclude_url_names': ['insert-photo', ], }
 
 SECURE_PROXY_SSL_HEADER = ('HTTP_X_FORWARDED_PROTO', 'https')
 CSRF_TRUSTED_ORIGINS = ['https://' + config('SERVER'), 'https://' + config('SERVER_2')]

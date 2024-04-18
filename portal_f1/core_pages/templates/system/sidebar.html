@@ -4,11 +4,9 @@
 	<div class="navbar-wrapper">
 		<div class="navbar-content scroll-div" >
 			<ul class="nav pcoded-inner-navbar">
+				{% include 'menu_analytics.html' %}
 
-				{% if request.user.is_authenticated %}
-					{% include 'menu_naturae.html' %}
-					{% include 'menu_core_access.html' %}
-				{% endif %}
+
 
 			</ul>
 		</div>
