@@ -1,7 +1,7 @@
 $(document).ready(function() {
-    var chart_driver_years = document.getElementById('driver_years');
+    var chart_driver_seasons = document.getElementById('driver_seasons');
 
-    let chartDriveYears = new Chart(chart_driver_years, {
+    let chartDriverSeason = new Chart(chart_driver_seasons, {
         responsive: true,
         drawTicks: false,
             data: {
@@ -14,7 +14,7 @@ $(document).ready(function() {
                     //intersect: false,
                     mode: 'x',
                 },
-                plugins: {
+                            plugins: {
                     tooltip: {
                         callbacks:{
                             title: function(context) {
@@ -23,7 +23,7 @@ $(document).ready(function() {
 
                               year  = 1900 + date.getYear();
 
-                              return 'Poles in year - '+year
+                              return  'Points in year - ' +year
                             },
                             label: function(context) {
                                 let label = context.dataset.label || '';
@@ -31,7 +31,7 @@ $(document).ready(function() {
                                     label += ': ';
                                 }
                                 if (context.parsed.y !== null) {
-                                    label += context.raw.y.toFixed(0) + " - Pole(s)";
+                                    label += context.raw.y.toFixed(0);
                                     label = label.replace(".", ",")
                                 }
 
@@ -75,29 +75,30 @@ $(document).ready(function() {
                  }
             }
         });
-    updateDriverYearChart();
+    updateDriverSeasonChart();
 
-    function updateDriverYearChart(){
+    function updateDriverSeasonChart(){
     $.ajax({
             method: "GET",
-            url: '/api/driver/detail/year/?driver=' + driver,
+            url: '/api/driver/detail/season/?driver=' + driver,
             success: function(data){
                 for (var i = 0; i < data.labels.length; ++i) {
                     var newDataset = {
                         type: data.type[i],
                         borderWidth: 2,
-                        pointStyle: 'rectRounded',
+                        pointStyle: 'circle',
                         fill: false,
-                        cubicInterpolationMode: 'monotone',
+                        cubicInterpolationMode: 'default',
                         tension: 0.4,
-                        borderColor: data.color[i],
-                        backgroundColor: data.color[i],
+                        borderColor: data.color,
+                        backgroundColor: data.color,
                         label: data.labels[i],
                         data: data.data[i],
+
                     }
-                    chartDriveYears.data.datasets.push(newDataset);
+                    chartDriverSeason.data.datasets.push(newDataset);
                 }
-                chartDriveYears.update();
+                chartDriverSeason.update();
             },
             error: function(error_data){
                 console.log(error_data);
@@ -106,4 +107,3 @@ $(document).ready(function() {
 
     }
 });
-

@@ -19757,7 +19757,9 @@ pre[class*=language-]:before {
 }
 
 .bg-c-silver {
-    background: linear-gradient(4deg, #c0c0c0, #dbdbdb);
+     background: linear-gradient(to bottom, #e8e8e8 0%,#999999 50%,#999999 51%,#c0c0c0 100%);
+
+
 }
 
 .text-c-silver {
@@ -19769,7 +19771,8 @@ pre[class*=language-]:before {
 }
 
 .bg-c-gold {
-    background: linear-gradient(4deg, #daa520, #f7d377);
+    background: linear-gradient(180deg,  #fceabb 0%,#fccd4d 50%,#f8b500 51%,#fbdf93 100%);
+
 }
 
 .text-c-gold {
@@ -19781,7 +19784,9 @@ pre[class*=language-]:before {
 }
 
 .bg-c-bronze {
-    background: linear-gradient(4deg, #cd7f32, #e9ac6f);
+     background: linear-gradient(to bottom,  rgba(239,166,98,1) 0%,rgba(204,95,0,1) 57%,rgba(204,95,0,1) 58%,rgba(221,150,84,1) 100%);
+
+
 }
 
 .text-c-bronze {
@@ -19794,7 +19799,8 @@ pre[class*=language-]:before {
 
 
 .bg-c-red {
-    background: linear-gradient(45deg, #f40000, #840404);
+     background: linear-gradient(to bottom,  rgba(248,80,50,1) 0%,rgba(241,111,92,1) 50%,rgba(246,41,12,1) 51%,rgba(240,47,23,1) 71%,rgba(231,56,39,1) 100%);
+
 }
 
 .text-c-red {
@@ -26556,6 +26562,8 @@ div.dtk-focus-alt table.dataTable tbody th.focus {
     padding: 70px 40px;
 
 }
+
+
 
 /* image varient End */
 /**====== Authentication css end ======**/

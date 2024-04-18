@@ -8,13 +8,12 @@ from analytics.filters.driver import DriverFilter
 from analytics.models.drivers import Driver
 from analytics.models.races import Race
 from analytics.models.results import Result
-
-
 from django.views.generic import DetailView
-
 from analytics.models.qualifying import Qualifying
 from rest_framework.response import Response
 from rest_framework.views import APIView
+from analytics.models.drivers_standings import DriverStanding
+from analytics.models.lap_times import LapTime
 
 
 class DriverDetailView(DetailView):
@@ -29,6 +28,30 @@ class DriverDetailView(DetailView):
         driver = Driver.objects.get(pk=self.kwargs["pk"])
         results = Result.objects.filter(driver=driver)
         pole = Qualifying.objects.filter(driver=driver, position=1)
+        lap_times = pd.DataFrame(LapTime.objects.filter(driver=driver).values("lap", "race__year", "race__circuit","race__circuit__country", "race__circuit__name", "mile_seconds"))
+        lap_times = lap_times.iloc[lap_times.groupby("race__circuit")["mile_seconds"].idxmin()]
+        lap_times['mile_seconds'] = pd.to_datetime(lap_times['mile_seconds'], unit='ms').dt.strftime('%M:%S.%f').str[:-3]
+        lap_times = lap_times.sort_values(by="race__circuit").reset_index(drop=True)
+
+
+
+        best_laps = []
+
+
+
+        for row in lap_times.iterrows():
+            lap_info = {
+                "lap": row[1]["lap"],
+                "race__circuit__name": row[1]["race__circuit__name"],
+                "race__circuit__country": row[1]["race__circuit__country"],
+                "race__year": row[1]["race__year"],
+                "mile_seconds": row[1]["mile_seconds"]
+            }
+            best_laps.append(lap_info)
+
+
+
+
         completed_races = 0
         first_places = 0
         second_places = 0
@@ -41,9 +64,9 @@ class DriverDetailView(DetailView):
                     second_places += 1
                 elif result.position == 3:
                     third_places += 1
-
-
                 completed_races += 1
+
+
 
         data = {
             "pole": len(pole),
@@ -52,10 +75,56 @@ class DriverDetailView(DetailView):
             "completed_races": completed_races,
             "first_places": first_places,
             "second_places": second_places,
-            "third_places": third_places
+            "third_places": third_places,
+            "best_laps": best_laps,
                 }
 
         return data
+
+
+class DriverSeasonDetailAPIView(APIView):
+    def get(self, request, format=None):
+        driver = Driver.objects.get(pk=int(request.GET.get('driver')))
+        results = pd.DataFrame(list(Result.objects.filter(driver=driver).values('points', 'race__year')))
+        points = pd.DataFrame(results)
+
+
+        start_year = results['race__year'].min()
+        end_year = results['race__year'].max()
+
+
+
+        years = []
+
+        for i in range(start_year, end_year + 1):
+            years.append(int(i))
+
+        total_points = points.groupby('race__year')[['points']].sum().reset_index(names="race__year")
+
+        points_year = []
+        for year in years:
+            try:
+                points_year.append(total_points[(total_points['race__year'] == int(year))]['points'].iloc[0])
+            except IndexError as e:
+                points_year.append(0)
+
+
+        points_by_year = [{'x': date(int(years[i]), 1, 1), 'y': points_year[i]} for i in range(0, len(years))]
+        data = []
+
+        data.append(points_by_year)
+
+        labels = ["Total Points"]
+        type = ['line']
+        color = ['Lightblue']
+        data = {
+            "data": data,
+            "labels": labels,
+            "color": color,
+            "type": type
+        }
+
+        return Response(data)
 
 
 class DriverDetailAPIView(APIView):
@@ -97,12 +166,12 @@ class DriverDetailAPIView(APIView):
         races = races.value_counts("race__year").reset_index(name='races')
         races = races.sort_values('race__year')
 
-
         races_year = []
         poles_year = []
         firsts_year = []
         seconds_year = []
         thirds_year = []
+
         for year in years:
             try:
                 poles_year.append(poles.loc[poles['race__year'] == int(year), 'poles'].iloc[0])
@@ -131,16 +200,14 @@ class DriverDetailAPIView(APIView):
             except IndexError as e:
                 races_year.append(0)
 
-
         poles_by_year = [{'x': date(int(years[i]), 1, 1), 'y': poles_year[i]} for i in range(0, len(years))]
         firsts_by_year = [{'x': date(int(years[i]), 1, 1), 'y': firsts_year[i]} for i in range(0, len(years))]
         seconds_by_year = [{'x': date(int(years[i]), 1, 1), 'y': seconds_year[i]} for i in range(0, len(years))]
         thirds_by_year = [{'x': date(int(years[i]), 1, 1), 'y': thirds_year[i]} for i in range(0, len(years))]
         races_by_year = [{'x': date(int(years[i]), 1, 1), 'y': races_year[i]} for i in range(0, len(years))]
 
-
-
         data = []
+
         data.append(poles_by_year)
         data.append(firsts_by_year)
         data.append(seconds_by_year)
@@ -150,7 +217,6 @@ class DriverDetailAPIView(APIView):
 
         labels = ['Poles', 'firsts', 'seconds', 'thirds', 'races']
         type = ['line', 'line', 'line', 'line', 'bar']
-
         color = ['red', '#daa520', '#c0c0c0', '#cd7f32', 'rgba(255, 99, 132, 0.2)']
 
 
