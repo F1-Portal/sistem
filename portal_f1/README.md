@@ -1,4 +1,4 @@
-# Software - NOCS [Django](https://appseed.us/admin-dashboards/django) 
+# Software - F1 [Django](https://appseed.us/admin-dashboards/django) 
 
 Utilizando a versão Free do template [Admin dashboard](https://appseed.us/admin-dashboards) gerado por AppSeed em **[Django](https://appseed.us/admin-dashboards/django)** Framework.
 
