@@ -1,7 +1,7 @@
 psycopg2-binary
 asgiref==3.5.2
 autopep8==1.6.0
-django==4.0.5
+django==4.1.13
 pycodestyle==2.8.0
 pytz==2022.1
 sqlparse==0.4.2
